@@ -1,1 +1,1 @@
-# g5-configurator-version
+# g5-bfc-configurator-version
